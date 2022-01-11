@@ -9,7 +9,7 @@ func AddInt8(a, b int8) {
 
 func AddInt16(a, b int16) {
 	var t = a + b
-	fmt.Println("AddInt16:", t)
+	fmt.Println("AddInt8:", t)
 }
 
 func AddInt32(a, b int32) {
